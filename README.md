@@ -10,11 +10,11 @@
 <h4>
     <a href="https://htt3.netlify.app/dashboard">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/yourusername/http3">Documentation</a>
+    <a href="https://github.com/AuditorDevansh/http3">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/yourusername/http3/issues/">Report Bug</a>
+    <a href="https://github.com/AuditorDevansh/http3/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/yourusername/http3/issues/">Request Feature</a>
+    <a href="https://github.com/AuditorDevansh/http3/issues/">Request Feature</a>
   </h4>
 </div>
 
